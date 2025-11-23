@@ -1,0 +1,17 @@
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\bin\Debug\net8.0-windows\OrderingSystem.exe
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\bin\Debug\net8.0-windows\OrderingSystem.deps.json
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\bin\Debug\net8.0-windows\OrderingSystem.runtimeconfig.json
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\bin\Debug\net8.0-windows\OrderingSystem.dll
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\bin\Debug\net8.0-windows\OrderingSystem.pdb
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.csproj.GenerateResource.cache
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.AssemblyInfoInputs.cache
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.AssemblyInfo.cs
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.dll
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\refint\OrderingSystem.dll
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.pdb
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.genruntimeconfig.cache
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\ref\OrderingSystem.dll
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.OrderHere.resources
+C:\Users\Reizen\Desktop\Aromin_YR3\OrderingSystem\OrderingSystem\obj\Debug\net8.0-windows\OrderingSystem.Properties.Resources.resources
